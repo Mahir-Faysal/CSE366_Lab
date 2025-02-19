@@ -1,2 +1,2 @@
-## About course
-# Name: **Artificial Intelligence**
+## Course Name
+# **Artificial Intelligence**
